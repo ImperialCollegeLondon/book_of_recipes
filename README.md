@@ -8,4 +8,4 @@
 ## Hot sauces
 
 ## Dessert
-* [hummus] (lemon.mdwn)
+* [lemon tart] (lemon.mdwn)
