@@ -2,5 +2,6 @@
 
 ## Cold sauces
 * [Guacamole](guacamole.md)
+* [carrot pancakes]
 
 ## Hot sauces
