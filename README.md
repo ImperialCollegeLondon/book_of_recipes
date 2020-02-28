@@ -2,5 +2,6 @@
 
 ## Cold sauces
 * [Guacamole](guacamole.md)
+* [Salsa](salsa.md)
 
 ## Hot sauces
