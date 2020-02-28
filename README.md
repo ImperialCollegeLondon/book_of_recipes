@@ -4,3 +4,4 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
+* [Chilli](chilli.md)
