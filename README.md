@@ -5,3 +5,4 @@
 * [Salsa](salsa.md)
 
 ## Hot sauces
+* [Chilli](chilli.md)
