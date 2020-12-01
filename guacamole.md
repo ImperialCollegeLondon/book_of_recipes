@@ -13,3 +13,5 @@ Guacamole is an avocado-based dip, spread, or salad first developed by the Aztec
 * squeeze lime
 * add salt
 * and mix well
+* but do not mix too much
+* good luck! 
