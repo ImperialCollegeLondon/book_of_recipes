@@ -6,4 +6,4 @@
 
 ## Hot sauces
 * [Chilli sauce](chilli.md)
-* [Da_Bomb](Da Bomb.md)
+* [Da Bomb](Da_Bomb.md)
