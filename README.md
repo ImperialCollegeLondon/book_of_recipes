@@ -2,6 +2,7 @@
 
 ## Cold sauces
 * [Guacamole](guacamole.md)
+* [Ketchup](ketchup.md)
 
 ## Hot sauces
 * [Chilli sauce] (chilli.md)
