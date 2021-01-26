@@ -5,4 +5,4 @@
 * [Ketchup](ketchup.md)
 
 ## Hot sauces
-* [Chilli sauce] (chilli.md)
+* [Chilli sauce](chilli.md)
