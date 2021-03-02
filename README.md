@@ -7,3 +7,4 @@
 * [Hollandaise](hollandaise.md)
 
 ## Other
+* [Pizza](pizza.md)
