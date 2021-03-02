@@ -4,3 +4,6 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
+* [Hollandaise](hollandaise.md)
+
+## Other
