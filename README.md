@@ -6,4 +6,4 @@ Hello here you will find some helpful recipes.
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
-* [Hot sauce](hot sauce.md) - thanks ramesh
+* [Hot sauce](Hot_sauce.md) - thanks ramesh
