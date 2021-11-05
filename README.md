@@ -9,3 +9,7 @@
 *   Rice wine vinager
 *   Garlic
 *   Refined Sweetner
+
+
+## Soup recipe
+* [pumpkin soup](pumpkin soup.md]
