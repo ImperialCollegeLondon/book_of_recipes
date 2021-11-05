@@ -13,7 +13,7 @@
 - pepper
 - dried chilli powder
 
-* Sweet Chilli Recipe  
+**Sweet Chilli Recipe**
 *   Red peppers
 *   Rice wine vinager
 *   Garlic
@@ -21,5 +21,5 @@
 
 
 ## Soup recipe
-* [pumpkin soup](pumpkin soup.md)
+* [pumpkin soup](pumpkin_soup.md)
 
