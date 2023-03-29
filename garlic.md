@@ -1,6 +1,7 @@
 # Garlic
 
-Garlic sauce is a sauce prepared using garlic as a primary ingredient. More information [here](https://en.wikipedia.org/wiki/Garlic_sauce).
+Garlic sauce is a sauce prepared using garlic as a primary ingredient.
+More information [here](https://en.wikipedia.org/wiki/Garlic_sauce).
 
 ## Ingredients
 
