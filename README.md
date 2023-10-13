@@ -4,3 +4,6 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
+
+## Soups
+* [Red Lentil Soup]{red_lentil_soup.md}
