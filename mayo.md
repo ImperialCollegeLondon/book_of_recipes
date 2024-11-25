@@ -4,8 +4,8 @@ Some history
 
 ## Ingredients
 
-- A 
-- B
+- Ingredient 1 
+- Ingredient 2
 
 ## Instructions
 
