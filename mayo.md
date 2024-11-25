@@ -10,5 +10,5 @@ Some history
 ## Instructions
 
 - Mix everything
-- Enjoy
+- Enjoy!
 
